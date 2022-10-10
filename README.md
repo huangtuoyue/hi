@@ -1,5 +1,4 @@
 ### Hi there 👋
-![413921665437909_ pic](https://user-images.githubusercontent.com/64857750/194957027-35def9dd-70ae-4cbb-bc3c-b18fbbe8b173.jpg)
 <img src="dudu.jpeg" alt="cute" width="200"/>
 
 <!--
