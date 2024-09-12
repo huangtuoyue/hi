@@ -1,5 +1,5 @@
-### Hi there 👋
-VX: HTY0114
+### Hi there 👋 微信号：HTY0114
+
 <img src="dudu.jpeg" alt="cute" width="200"/>
 
 <!--
